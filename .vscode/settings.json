@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "test",
+      "database": "\\\\wsl.localhost\\Ubuntu\\home\\ronaldoapf\\www\\ignite\\node\\challenges\\02-node-daily-diet-api-challenge\\db\\app.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}

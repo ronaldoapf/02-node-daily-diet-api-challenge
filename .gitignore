@@ -1,0 +1,14 @@
+# Dependencies
+package-lock.json
+node_modules
+
+# Database
+db/*.db
+
+# Environment
+.env
+.env.test
+
+# Build
+build
+dist
